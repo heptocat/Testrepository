@@ -1,0 +1,12 @@
+#BlueJ class context
+comment0.params=n\ k\ ist_kg
+comment0.target=Biene(java.lang.String,\ int,\ boolean)
+comment1.params=z
+comment1.target=void\ verteidigen(int)
+comment2.params=
+comment2.target=void\ summen()
+comment3.params=
+comment3.target=void\ Zur\u00FCckfliegen()
+comment4.params=p
+comment4.target=void\ Heilen(int)
+numComments=5

@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.params=nOP1\ kOP1\ kgOP1\ nOP2\ kOP2\ wOP2
+comment0.target=KampfSTRG(java.lang.String,\ int,\ boolean,\ java.lang.String,\ int,\ boolean)
+comment1.params=i
+comment1.target=void\ StandBy(int)
+comment2.params=
+comment2.target=void\ Reset()
+comment3.params=
+comment3.target=void\ Simulationskampf()
+numComments=4
