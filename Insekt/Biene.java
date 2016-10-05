@@ -45,7 +45,7 @@ public class Biene extends Insekt
             if(im_Bienenkorb == false)
             {
                 im_Bienenkorb = true;
-                System.out.println("Die Biene " + name + " ist zurück in den Bienenstock geflogen!");
+                System.out.println("Die Biene " + name + " ist schnell zurück in den Bienenstock geflogen!");
             }
         }
     }
